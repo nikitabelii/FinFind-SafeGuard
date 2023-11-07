@@ -9,6 +9,8 @@ Beach Safety Enhancements:
 Collaborate with local authorities and lifeguards to integrate the technology into existing safety protocols at public beaches.
 Establish real-time alert systems to notify lifeguards and beachgoers of the presence of sharks in swimming areas.
 
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e)
+
 Boosting Tourism Confidence:
 
 Partner with tourism boards and travel agencies to promote beaches utilizing the "FinFind Safeguard" technology, assuring tourists of enhanced safety measures.
