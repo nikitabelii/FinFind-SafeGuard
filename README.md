@@ -32,3 +32,5 @@ Elevated Tourist Experience: Tourists can enjoy beach activities with added peac
 Strengthened Destination Reputation: Destinations utilizing this technology can strengthen their reputation as safe and tourist-friendly locations.
 
 [Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
+
+[AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing)
