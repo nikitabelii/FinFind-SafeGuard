@@ -23,7 +23,7 @@ Continuous Improvement:
 
 Continually update and refine the AI algorithms to ensure the highest levels of accuracy and reliability in species identification.
 Seek feedback from end-users, such as lifeguards and tourists, to make necessary improvements to the technology and its application.
-
+<img src="dolsha-2.jpeg" width=400>
 # Impact:
 Enhanced Public Safety: Reduced risks associated with shark encounters at public beaches, leading to safer swimming and recreational activities.
 
