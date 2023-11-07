@@ -23,9 +23,8 @@ Continuous Improvement:
 
 Continually update and refine the AI algorithms to ensure the highest levels of accuracy and reliability in species identification.
 Seek feedback from end-users, such as lifeguards and tourists, to make necessary improvements to the technology and its application.
-<img src="https://boattoursjohnspass.com/wp-content/uploads/dolsha-2.jpg" width=400> ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/13352b95-9633-4bf5-98d2-79f5d131e7b3)
-
-
+<img src="https://boattoursjohnspass.com/wp-content/uploads/dolsha-2.jpg" width=400> <img src="https://boattoursjohnspass.com/wp-content/uploads/dolsha-2.jpg" width=400> 
+ 
 # Impact:
 Enhanced Public Safety: Reduced risks associated with shark encounters at public beaches, leading to safer swimming and recreational activities.
 
