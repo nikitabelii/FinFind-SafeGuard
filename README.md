@@ -24,13 +24,14 @@ Continuous Improvement:
 Continually update and refine the AI algorithms to ensure the highest levels of accuracy and reliability in species identification.
 Seek feedback from end-users, such as lifeguards and tourists, to make necessary improvements to the technology and its application.
 <img src="https://boattoursjohnspass.com/wp-content/uploads/dolsha-2.jpg" width=400>
+
 # Impact:
 Enhanced Public Safety: Reduced risks associated with shark encounters at public beaches, leading to safer swimming and recreational activities.
 
 Elevated Tourist Experience: Tourists can enjoy beach activities with added peace of mind, enhancing their overall experience.
 
 Strengthened Destination Reputation: Destinations utilizing this technology can strengthen their reputation as safe and tourist-friendly locations.
-
+<img src="https://sharkdefence.com/wp-content/uploads/2020/04/shark-fin.jp" width=400>
 # Data Deck:
 [Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
