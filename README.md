@@ -1,5 +1,5 @@
 # FinFind-SafeGuard
-<img src="FinFind.png" width=400>
+<img src="FinFind.png" width=800>
 
 Utilize cutting-edge artificial intelligence to accurately identify sharks and dolphins in aquatic environments, supporting the safety measures at beaches and tourist destinations.
 
@@ -31,6 +31,8 @@ Enhanced Public Safety: Reduced risks associated with shark encounters at public
 Elevated Tourist Experience: Tourists can enjoy beach activities with added peace of mind, enhancing their overall experience.
 
 Strengthened Destination Reputation: Destinations utilizing this technology can strengthen their reputation as safe and tourist-friendly locations.
+ 
+
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/13352b95-9633-4bf5-98d2-79f5d131e7b3)
 
 # Data Deck:
