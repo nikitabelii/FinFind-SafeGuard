@@ -1,7 +1,7 @@
 # FinFind-SafeGuard
 <img src="FinFind.png" width=400>
 
-Utilize cutting-edge artificial intelligence to accurately identify sharks and dolphins in aquatic environments, bolstering the safety measures at beaches and tourist destinations.
+Utilize cutting-edge artificial intelligence to accurately identify sharks and dolphins in aquatic environments, supporting the safety measures at beaches and tourist destinations.
 
 # Strategy and Implementation:
 Beach Safety Enhancements:
