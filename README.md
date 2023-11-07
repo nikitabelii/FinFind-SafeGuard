@@ -31,7 +31,8 @@ Enhanced Public Safety: Reduced risks associated with shark encounters at public
 Elevated Tourist Experience: Tourists can enjoy beach activities with added peace of mind, enhancing their overall experience.
 
 Strengthened Destination Reputation: Destinations utilizing this technology can strengthen their reputation as safe and tourist-friendly locations.
-<img src="https://sharkdefence.com/wp-content/uploads/2020/04/shark-fin.jp" width=400>
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/13352b95-9633-4bf5-98d2-79f5d131e7b3)
+
 # Data Deck:
 [Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
