@@ -1,4 +1,4 @@
-## FinFind SafeGuard
+# FinFind SafeGuard
 <img src="FinFind.png" width=800>
 
 
