@@ -5,6 +5,8 @@
 ## Overview
 FinFind Safeguard is an innovative technology aimed at enhancing beach safety, boosting tourism confidence, and ensuring continuous improvement in public safety and tourist experience.
 
+<img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 800>
+
 ## Key Features and Benefits
 
 ### Beach Safety Enhancements
@@ -28,18 +30,13 @@ FinFind Safeguard is an innovative technology aimed at enhancing beach safety, b
 ### Strengthened Destination Reputation
 - **Safe and Tourist-Friendly Locations**: Establishing a reputation as a safe, welcoming destination for tourists.
 
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
+ 
+
 ## Conclusion
 FinFind Safeguard technology represents a significant advancement in beach safety and tourist experience, offering a comprehensive solution for public beaches and tourist destinations.
 
 
-<img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 800>
-
-
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
-
-<img src="" width=400> 
-
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/13352b95-9633-4bf5-98d2-79f5d131e7b3)
 
 # Data Deck:
 <img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
