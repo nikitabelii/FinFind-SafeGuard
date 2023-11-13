@@ -40,7 +40,7 @@ Strengthened Destination Reputation: Destinations utilizing this technology can 
 
 # Data Deck:
 <img src="dolphinscr1.png" width=200> <img src="dolphinscr2.png" width=200> <img src="sharkscr1.png" width=200>
-[Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
+[ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
 # AlexNet: 
 [AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing)
