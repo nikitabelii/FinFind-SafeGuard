@@ -7,7 +7,7 @@ FinFind Safeguard is an innovative technology aimed at enhancing beach safety, b
 
 ## Logo
 
-<img src="Logo.png" width=800>
+<img src="Logo.png">
 
 ## How it works
 An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy. At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks. AlexNet has been trained on a vast dataset of underwater images, enabling it to distinguish sharks. When the camera, guided by this intelligent model, spots a shark in the beach water, it participates in ensuring beachgoer safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
