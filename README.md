@@ -31,14 +31,6 @@ FinFind Safeguard is an innovative technology aimed at enhancing beach safety, b
 ## Conclusion
 FinFind Safeguard technology represents a significant advancement in beach safety and tourist experience, offering a comprehensive solution for public beaches and tourist destinations.
 
----
-
-For more information, please contact [Your Contact Information].
-
-
-
-Utilize cutting-edge artificial intelligence to accurately identify sharks in aquatic environments, supporting safety measures at beaches and tourist destinations.
-
 
 <img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 800>
 
