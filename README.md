@@ -20,7 +20,8 @@ Continuous Improvement:
 
 Continually update and refine the AI algorithms to ensure the highest levels of accuracy and reliability in species identification.
 Seek feedback from end-users, such as lifeguards and tourists, to make necessary improvements to the technology and its application.
-<img src="https://boattoursjohnspass.com/wp-content/uploads/dolsha-2.jpg" width=400> 
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
+
 <img src="" width=400> 
  
 # Impact:
