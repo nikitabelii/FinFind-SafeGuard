@@ -1,7 +1,7 @@
 # FinFind-SafeGuard
 <img src="FinFind.png" width=800>
 
-Utilize cutting-edge artificial intelligence to accurately identify sharks and dolphins in aquatic environments, supporting the safety measures at beaches and tourist destinations.
+Utilize cutting-edge artificial intelligence to accurately identify sharks in aquatic environments, supporting safety measures at beaches and tourist destinations.
 
 # Strategy and Implementation:
 Beach Safety Enhancements:
@@ -15,11 +15,6 @@ Boosting Tourism Confidence:
 
 Partner with tourism boards and travel agencies to promote beaches utilizing the "FinFind Safeguard" technology, assuring tourists of enhanced safety measures.
 Work closely with resorts and tourist destinations to incorporate the technology into their offerings, providing an additional layer of assurance to their guests.
-
-Education and Awareness:
-
-Develop educational content that helps tourists and the general public understand the behaviors of sharks and dolphins better, encouraging a safer coexistence.
-Organize awareness campaigns in collaboration with tourism stakeholders to promote the responsible and safe enjoyment of beach activities.
 
 Continuous Improvement:
 
