@@ -48,9 +48,15 @@ FinFind Safeguard technology represents a significant advancement in beach safet
 
 
 
-# Data Deck:
+# Data Deck
 <img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
 [ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
-# AlexNet: 
+# AlexNet
 [AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing)
+
+AlexNet is a convolutional neural network (CNN) used for image recognition tasks. It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn hierarchical features from the images, enabling the model to classify images into different categories effectively.
+
+## AlexNet Accuracy 
+
+<img src="AlexNet Accuracy.png">
