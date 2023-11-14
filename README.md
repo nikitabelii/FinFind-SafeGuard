@@ -57,6 +57,21 @@ FinFind Safeguard technology represents a significant advancement in beach safet
 
 AlexNet is a convolutional neural network (CNN) used for image recognition tasks. It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn hierarchical features from the images, enabling the model to classify images into different categories effectively.
 
+## 10 random filters
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/b1838e28-122d-49e2-bb2e-2b3cc1996963)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/630a4f2e-fdc5-4096-abe3-7341c5802625)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/6044209d-c13d-46de-a70c-f27f8b61413d)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/dbad5b32-32f9-42ec-b5ea-a8e1060a52c0)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/445e8b5f-6b19-44eb-b3a1-8b662cacf378)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9353a0c4-7bd1-4d16-96e6-ae91bc51af7f)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/e70394a7-c14e-43a3-83d0-3d60a7975111)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/86834eaf-e867-4807-aaea-1aeaef73f00e)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/24817b76-0d09-4a13-8555-b571e8e6e0e5)
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/603d5605-5341-4dff-a12c-449de5099b23)
+
+
+
+
 ## AlexNet Accuracy 
 
 <img src="AlexNet Accuracy.png">
