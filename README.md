@@ -78,3 +78,5 @@ AlexNet is a convolutional neural network (CNN) used for image recognition tasks
 ## AlexNet Accuracy 
 
 <img src="AlexNet Accuracy.png">
+
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba)
