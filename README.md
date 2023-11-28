@@ -79,4 +79,10 @@ AlexNet is a convolutional neural network (CNN) used for image recognition tasks
 
 <img src="AlexNet Accuracy.png">
 
+## MoveNet
+
+MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
+
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e)
+
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba)
