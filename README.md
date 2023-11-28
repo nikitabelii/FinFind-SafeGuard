@@ -32,7 +32,6 @@ An underwater camera, deployed in the coastal waters near a popular beach, serve
 ### Enhanced Public Safety
 - **Reduced Shark Encounter Risks**: Minimizing risks associated with shark encounters, leading to safer beach activities.
 
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/664f0921-d9b0-478d-bd60-1c7355d4880d)
 
 ### Elevated Tourist Experience
 - **Peace of Mind for Tourists**: Allowing tourists to enjoy beach activities with an enhanced sense of safety.
