@@ -53,9 +53,7 @@ FinFind Safeguard technology represents a significant advancement in beach safet
 [ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
 # AlexNet
-[AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing)
-
-AlexNet is a convolutional neural network (CNN) used for image recognition tasks. It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn hierarchical features from the images, enabling the model to classify images into different categories effectively.
+[AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) is a convolutional neural network (CNN) used for image recognition tasks. It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn hierarchical features from the images, enabling the model to classify images into different categories effectively.
 
 ## 10 random filters
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/b1838e28-122d-49e2-bb2e-2b3cc1996963)
@@ -81,7 +79,7 @@ AlexNet is a convolutional neural network (CNN) used for image recognition tasks
 
 ## MoveNet
 
-MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
+[MoveNet](https://colab.research.google.com/drive/1gUFq-1a7-9SjdsTju03q9tZFhmC28VKq#scrollTo=6x99e0aEY_d6) is an ultra fast and accurate model that detects 17 keypoints of a body.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e)
 
