@@ -25,12 +25,11 @@ The most obvious importance is the protection of human lives. Shark attacks, whi
 
 **Reducing Fear and Anxiety:**
 
-The fear of shark attacks can deter people from enjoying the ocean. Effective safety measures and preventive strategies can reduce this fear and anxiety, encouraging more people to engage in beach and ocean activities.
+The fear of shark attacks can deter people from enjoying the ocean. Effective safety measures can reduce this fear and anxiety, encouraging more people to engage in beach and ocean activities.
 
 **Supporting Local Economies and Tourism:**
 
-Coastal areas often rely heavily on tourism. Fear of shark attacks can negatively impact these economies. By ensuring public safety, localities can maintain a thriving tourist industry.
-Safe beaches attract more visitors, which benefits hotels, restaurants, and other businesses in coastal areas.
+Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attacks can negatively impact these economies. By ensuring public safety, localities can maintain a thriving tourist industry. Safe beaches attract more visitors, which benefits hotels, restaurants, and other businesses in coastal areas.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
  
