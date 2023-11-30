@@ -1,7 +1,8 @@
 # FinFind SafeGuard
 
 <img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 800>
-
+## Problem 
+Shark attacks on humans still happen today. And when they happen, they can result in serious injuries or fatalities. 
 ## Overview
 FinFind Safeguard is an innovative technology aimed at enhancing beach safety, boosting tourism confidence, and ensuring continuous improvement in public safety and tourist experience.
 
@@ -10,7 +11,7 @@ FinFind Safeguard is an innovative technology aimed at enhancing beach safety, b
 <img src="Logo.png" width = 300>
 
 ## How it works
-An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy. At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks. AlexNet has been trained on a vast dataset of underwater images, enabling it to distinguish sharks. When the camera, guided by this intelligent model, spots a shark in the beach water, it participates in ensuring beachgoer safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
+An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy. At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks. AlexNet has been trained on a vast dataset of underwater images, enabling it to distinguish sharks. When the camera spots a shark in the beach water, it participates in ensuring public safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9a0cf732-ac1e-41f0-a1ec-eb313031f9f4)
 
