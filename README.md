@@ -1,8 +1,10 @@
 # FinFind SafeGuard
 
 <img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 800>
+
 ## Problem 
 Shark attacks on humans still happen today. And when they happen, they can result in serious injuries or fatalities. 
+
 ## Overview
 FinFind Safeguard is an innovative technology aimed at enhancing beach safety, boosting tourism confidence, and ensuring continuous improvement in public safety and tourist experience.
 
