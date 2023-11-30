@@ -48,6 +48,7 @@ FinFind Safeguard technology represents a significant advancement in beach safet
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/78487a0a-5b2b-41e2-9aa4-5e37a9020112)
 
+## Filters
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/b1838e28-122d-49e2-bb2e-2b3cc1996963)
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/630a4f2e-fdc5-4096-abe3-7341c5802625)
