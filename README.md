@@ -65,6 +65,14 @@ FinFind Safeguard technology represents a significant advancement in beach safet
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/eb4d6a7e-dfa6-4b23-9757-919c4115cde2)
 
+## MoveNet
+
+MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
+
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e)
+
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba)
+
 
 
 ## AlexNet Accuracy 
