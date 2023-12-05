@@ -16,7 +16,7 @@ FinFind Safeguard is an innovative technology that ensures public beach safety b
 An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy.
 
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/e28e0ddd-28ac-48f6-a64c-06edc0dfcec9" length = "350">
-<img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/c5bca813-3989-4c34-af45-0b693c893517" width = "345">
+<img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/c5bca813-3989-4c34-af45-0b693c893517" width = "343">
 
 When the camera **spots a shark** in the beach water, it participates in ensuring public safety by **sending an immediate alert** to the nearby lifeguard. This message empowers the **lifeguard** to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
 
@@ -61,9 +61,7 @@ Stacking multiple convolutional layers with different filters allows AlexNet to 
 
 # AlexNet Accuracy 
 
-The high accuracy of the AlexNet model 
-<span style="color:red;">**GUARANTEES**</span>
-reliable detection of sharks.
+The high accuracy of the AlexNet model <span style="color:red;">**GUARANTEES**</span> reliable detection of sharks.
 
 <img src="AlexNet Accuracy.png">
 
