@@ -97,13 +97,13 @@ FinFind Innovations HQ
 
 ### Customer Support
 - **Email:** [support@finfindinnovations.com](mailto:support@finfindinnovations.com)
-- **Phone:** +1 (555) 123-4567
-- **Hours:** Monday to Friday, 9am - 5pm PST
+- **Phone:** +1 (561) 123-4567
+- **Hours:** Monday to Friday, 9am - 5pm EST
 
 ### Sales Inquiries
 - **Email:** [sales@finfindinnovations.com](mailto:sales@finfindinnovations.com)
 - **Phone:** +1 (555) 765-4321
-- **Hours:** Monday to Friday, 8am - 6pm PST
+- **Hours:** Monday to Friday, 8am - 6pm EST
 
 ### Media Contact
 - **Email:** [media@finfindinnovations.com](mailto:media@finfindinnovations.com)
