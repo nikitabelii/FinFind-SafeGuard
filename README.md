@@ -1,6 +1,6 @@
 # FinFind SafeGuard
 
-<img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 800>
+<img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 1000>
 
 ## Problem 
 Shark attacks on humans still happen today. And when they happen, they can result in serious injuries or fatalities. 
