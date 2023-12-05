@@ -13,14 +13,21 @@ FinFind Safeguard is an innovative technology that ensures public beach safety b
 <img src="Logo.png" width = 300>
 
 ## How it works
-An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy. When the camera spots a shark in the beach water, it participates in ensuring public safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
-
 
 <img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9a0cf732-ac1e-41f0-a1ec-eb313031f9f4" alt="image_description" width="800">
 
-At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks.
+An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy.
+
+<img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/c5bca813-3989-4c34-af45-0b693c893517" width = "400">
+
+When the camera spots a shark in the beach water, it participates in ensuring public safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
 
 <img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/480d7470-687c-47e7-a2df-5a02278510a8" width="800">
+
+
+At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks.
+
+
 
 
 
