@@ -51,6 +51,8 @@ Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attack
 
 ## Filters
 
+Filters are small learnable matrices used to perform convolution operations on the input image. Each filter is responsible for detecting a specific type of feature, such as edges, textures, or more complex patterns.
+
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/b1838e28-122d-49e2-bb2e-2b3cc1996963)
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/630a4f2e-fdc5-4096-abe3-7341c5802625)
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/6044209d-c13d-46de-a70c-f27f8b61413d)
@@ -63,6 +65,8 @@ Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attack
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/603d5605-5341-4dff-a12c-449de5099b23)
 
 ## Feature Maps
+
+Feature maps are the result of applying filters to the input image using the convolution operation. Each filter generates one feature map. The feature map highlights areas of the input image where the filter's pattern or feature is present
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/eb4d6a7e-dfa6-4b23-9757-919c4115cde2)
 
