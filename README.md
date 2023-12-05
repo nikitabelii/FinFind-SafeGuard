@@ -26,19 +26,16 @@ When the camera spots a shark in the beach water, it participates in ensuring pu
 
 # AlexNet
 At the heart of this system is a pre-trained [AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) model, a type of convolutional neural network used for image recognition tasks.
-
-# Data Deck
-
-<img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
-[ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
-
-
- It has been trained on a vast dataset of underwater images, enabling it to distinguish sharks.
  
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/78487a0a-5b2b-41e2-9aa4-5e37a9020112)
 
 AlexNet works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn features from the images, enabling the model to classify images into different categories effectively.
 
+# Data Deck
+
+<img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
+[ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
+It has been trained on a vast dataset of underwater images, enabling it to distinguish sharks.
 
 ## Filters
 
