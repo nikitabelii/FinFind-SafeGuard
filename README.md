@@ -88,10 +88,7 @@ _Leading the way in marine species identification technology_
 
 ### Address
 FinFind Innovations HQ  
-123 Ocean Drive  
-MarineTech Park  
-Bay City, CA 90210  
-USA
+777 Glades Rd, Boca Raton, FL 33431
 
 ### Customer Support
 - **Email:** [support@finfindinnovations.com](mailto:support@finfindinnovations.com)
