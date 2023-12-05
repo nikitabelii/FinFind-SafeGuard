@@ -15,7 +15,6 @@ FinFind Safeguard is an innovative technology that ensures public beach safety b
 ## How it works
 An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy. At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks. AlexNet has been trained on a vast dataset of underwater images, enabling it to distinguish sharks. When the camera spots a shark in the beach water, it participates in ensuring public safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
 
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9a0cf732-ac1e-41f0-a1ec-eb313031f9f4)
 
 <img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9a0cf732-ac1e-41f0-a1ec-eb313031f9f4" alt="image_description" width="800">
 
@@ -81,7 +80,8 @@ FinFind Safeguard technology represents a significant advancement in beach safet
 
 MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
 
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e) ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba)
+<img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e" width = 800>
+<img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba width = 800>
 
 
 
