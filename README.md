@@ -59,19 +59,12 @@ Feature maps are the result of applying filters to the input image using the con
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/eb4d6a7e-dfa6-4b23-9757-919c4115cde2)
 
-
+Stacking multiple convolutional layers with different filters allows AlexNet to progressively learn and represent features from simple to more complex in a step-by-step manner. This helps in improving the network's ability to recognize objects and patterns in images.
 
 # AlexNet Accuracy 
 
 <img src="AlexNet Accuracy.png">
 
-
-# MoveNet
-
-MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
-
-<img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e" width = 400>
-<img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba" width = 400>
 
 # Why is it important
 
@@ -88,7 +81,7 @@ The fear of shark attacks can deter people from enjoying the ocean. Effective sa
 Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attacks can negatively impact these economies. By ensuring public safety, localities can maintain a thriving tourist industry. Safe beaches attract more visitors, which benefits hotels, restaurants, and other businesses in coastal areas.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
- 
+
 
 # Contact Us
 
