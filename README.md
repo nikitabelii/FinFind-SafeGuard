@@ -6,7 +6,7 @@
 Shark attacks on humans still happen today. And when they happen, they can result in serious injuries or fatalities. 
 
 ## Overview
-FinFind Safeguard is an innovative technology that ensures public beach safety by finding sharks in water.
+FinFind Safeguard is an innovative technology that ensures public beach safety by recognizing sharks in water.
 
 ## Logo
 
@@ -24,14 +24,8 @@ When the camera spots a shark in the beach water, it participates in ensuring pu
 
 <img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/480d7470-687c-47e7-a2df-5a02278510a8" width="800">
 
-
-At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks.
-
-
-
-
-
-
+# AlexNet
+At the heart of this system is a pre-trained [AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) model, a type of convolutional neural network used for image recognition tasks.
 
 # Data Deck
 
@@ -40,8 +34,8 @@ At the heart of this system is a pre-trained AlexNet model, a type of convolutio
 <img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
 [ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
-# AlexNet
-[AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) is a convolutional neural network (CNN) used for image recognition tasks. It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn features from the images, enabling the model to classify images into different categories effectively.
+
+It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn features from the images, enabling the model to classify images into different categories effectively.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/78487a0a-5b2b-41e2-9aa4-5e37a9020112)
 
