@@ -21,7 +21,7 @@ An underwater camera, deployed in the coastal waters near a popular beach, serve
 
 **Protecting Human Lives:**
 
-The most obvious importance is the protection of human lives. Shark attacks, while rare, can be serious or even fatal. Ensuring the safety of beachgoers, swimmers, surfers, and divers is a primary concern for coastal communities.
+The most obvious importance is the protection of human lives. Shark attacks can be serious or even fatal. The program esures the safety of beachgoers, swimmers, surfers, and divers.
 
 **Reducing Fear and Anxiety:**
 
