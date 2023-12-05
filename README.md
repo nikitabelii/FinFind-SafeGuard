@@ -58,7 +58,7 @@ Filters are small learnable matrices used to perform convolution operations on t
 
 Feature maps are the result of applying filters to the input image using the convolution operation. Each filter generates one feature map. The feature map highlights areas of the input image where the filter's pattern or feature is present
 
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/eb4d6a7e-dfa6-4b23-9757-919c4115cde2)
+<img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/eb4d6a7e-dfa6-4b23-9757-919c4115cde2" width = "800">
 
 Stacking multiple convolutional layers with different filters allows AlexNet to progressively learn and represent features from simple to more complex in a step-by-step manner. This helps in improving the network's ability to recognize objects and patterns in images.
 
