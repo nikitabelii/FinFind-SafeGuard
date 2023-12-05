@@ -35,9 +35,10 @@ AlexNet works by processing input images through multiple layers, including conv
 
 <img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
 [ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
+
 It has been trained on a vast dataset of underwater images, enabling it to distinguish sharks.
 
-## Filters
+# Filters
 
 Filters are small learnable matrices used to perform convolution operations on the input image. Each filter is responsible for detecting a specific type of feature, such as edges, textures, or more complex patterns.
 
@@ -52,7 +53,7 @@ Filters are small learnable matrices used to perform convolution operations on t
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/24817b76-0d09-4a13-8555-b571e8e6e0e5)
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/603d5605-5341-4dff-a12c-449de5099b23)
 
-## Feature Maps
+# Feature Maps
 
 Feature maps are the result of applying filters to the input image using the convolution operation. Each filter generates one feature map. The feature map highlights areas of the input image where the filter's pattern or feature is present
 
@@ -60,19 +61,19 @@ Feature maps are the result of applying filters to the input image using the con
 
 
 
-## AlexNet Accuracy 
+# AlexNet Accuracy 
 
 <img src="AlexNet Accuracy.png">
 
 
-## MoveNet
+# MoveNet
 
 MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
 
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e" width = 400>
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba" width = 400>
 
-## Why is it important
+# Why is it important
 
 **Protecting Human Lives:**
 
