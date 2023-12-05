@@ -6,7 +6,7 @@
 Shark attacks on humans still happen today. And when they happen, they can result in serious injuries or fatalities. 
 
 ## Overview
-FinFind Safeguard is an innovative technology aimed at enhancing beach safety, boosting tourism confidence, and ensuring continuous improvement in public safety and tourist experience.
+FinFind Safeguard is an innovative technology that ensures public beach safety by finding sharks in water.
 
 ## Logo
 
