@@ -81,40 +81,37 @@ MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba" width = 400>
 
 
-## Contact Us
-FinFind Innovations
+# Contact Us
 
-Leading the way in marine species identification technology
+## FinFind Innovations
+_Leading the way in marine species identification technology_
 
-Address:
-FinFind Innovations HQ
-123 Ocean Drive
-MarineTech Park
-Bay City, CA 90210
+### Address
+FinFind Innovations HQ  
+123 Ocean Drive  
+MarineTech Park  
+Bay City, CA 90210  
 USA
 
-Customer Support:
-Email: support@finfindinnovations.com
-Phone: +1 (555) 123-4567
-Hours: Monday to Friday, 9am - 5pm PST
+### Customer Support
+- **Email:** [support@finfindinnovations.com](mailto:support@finfindinnovations.com)
+- **Phone:** +1 (555) 123-4567
+- **Hours:** Monday to Friday, 9am - 5pm PST
 
-Sales Inquiries:
-Email: sales@finfindinnovations.com
-Phone: +1 (555) 765-4321
-Hours: Monday to Friday, 8am - 6pm PST
+### Sales Inquiries
+- **Email:** [sales@finfindinnovations.com](mailto:sales@finfindinnovations.com)
+- **Phone:** +1 (555) 765-4321
+- **Hours:** Monday to Friday, 8am - 6pm PST
 
-Media Contact:
-Email: media@finfindinnovations.com
-Phone: +1 (555) 234-5678
+### Media Contact
+- **Email:** [media@finfindinnovations.com](mailto:media@finfindinnovations.com)
+- **Phone:** +1 (555) 234-5678
 
-Technical Support:
-For technical assistance, please visit our Support Center or contact our tech team directly at techsupport@finfindinnovations.com.
+### Technical Support
+For technical assistance, please visit our [Support Center](https://www.finfindinnovations.com/support) or contact our tech team directly at [techsupport@finfindinnovations.com](mailto:techsupport@finfindinnovations.com).
 
-Follow Us:
-Stay connected with the latest updates from FinFind Innovations:
-Facebook
-Twitter
-LinkedIn
-
-
-
+### Follow Us
+Stay connected with the latest updates from FinFind Innovations:  
+- [Facebook](https://www.facebook.com/FinFindInnovations)
+- [Twitter](https://www.twitter.com/FinFindInnovate)
+- [LinkedIn](https://www.linkedin.com/company/finfind-innovations)
