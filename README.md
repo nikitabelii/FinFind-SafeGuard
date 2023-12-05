@@ -8,9 +8,6 @@ Shark attacks on humans still happen today. And when they happen, they can resul
 ## Overview
 FinFind Safeguard is an innovative technology that ensures public beach safety by recognizing sharks in water.
 
-## Logo
-
-<img src="Logo.png" width = 300>
 
 ## How it works
 
@@ -89,6 +86,9 @@ Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attack
 # Contact Us
 
 ## FinFind Innovations
+
+<img src="Logo.png" width = "200">
+
 _Leading the way in marine species identification technology_
 
 ### Address
