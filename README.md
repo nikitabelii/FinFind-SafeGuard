@@ -38,9 +38,6 @@ Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attack
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
  
 
-## Conclusion
-FinFind Safeguard technology represents a significant advancement in beach safety and tourist experience, offering a comprehensive solution for public beaches and tourist destinations.
-
 
 
 # Data Deck
@@ -83,6 +80,41 @@ MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e" width = 400>
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba" width = 400>
 
+
+## Contact Us
+FinFind Innovations
+
+Leading the way in marine species identification technology
+
+Address:
+FinFind Innovations HQ
+123 Ocean Drive
+MarineTech Park
+Bay City, CA 90210
+USA
+
+Customer Support:
+Email: support@finfindinnovations.com
+Phone: +1 (555) 123-4567
+Hours: Monday to Friday, 9am - 5pm PST
+
+Sales Inquiries:
+Email: sales@finfindinnovations.com
+Phone: +1 (555) 765-4321
+Hours: Monday to Friday, 8am - 6pm PST
+
+Media Contact:
+Email: media@finfindinnovations.com
+Phone: +1 (555) 234-5678
+
+Technical Support:
+For technical assistance, please visit our Support Center or contact our tech team directly at techsupport@finfindinnovations.com.
+
+Follow Us:
+Stay connected with the latest updates from FinFind Innovations:
+Facebook
+Twitter
+LinkedIn
 
 
 
