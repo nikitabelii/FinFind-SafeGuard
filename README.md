@@ -45,7 +45,7 @@ Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attack
 [ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
 # AlexNet
-[AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) is a convolutional neural network (CNN) used for image recognition tasks. It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn hierarchical features from the images, enabling the model to classify images into different categories effectively.
+[AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) is a convolutional neural network (CNN) used for image recognition tasks. It works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn features from the images, enabling the model to classify images into different categories effectively.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/78487a0a-5b2b-41e2-9aa4-5e37a9020112)
 
