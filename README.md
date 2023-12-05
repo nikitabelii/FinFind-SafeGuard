@@ -71,6 +71,9 @@ FinFind Safeguard technology represents a significant advancement in beach safet
 
 <img src="AlexNet Accuracy.png">
 
+## Yolov5
+
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/a2ce1a3f-1212-42cd-ade4-a2baa3dbb248)
 
 
 ## MoveNet
