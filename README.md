@@ -64,6 +64,7 @@ Stacking multiple convolutional layers with different filters allows AlexNet to 
 
 # AlexNet Accuracy 
 
+The high accuracy of the AlexNet model in our system _GUARANTEES_ reliable detection of sharks.
 <img src="AlexNet Accuracy.png">
 
 
