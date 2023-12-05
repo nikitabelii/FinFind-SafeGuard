@@ -17,7 +17,7 @@ An underwater camera, deployed in the coastal waters near a popular beach, serve
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9a0cf732-ac1e-41f0-a1ec-eb313031f9f4)
 
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/a2ce1a3f-1212-42cd-ade4-a2baa3dbb248){width=400px}
+<img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9a0cf732-ac1e-41f0-a1ec-eb313031f9f4" alt="image_description" width="400">
 
 
 ## Why is it important
