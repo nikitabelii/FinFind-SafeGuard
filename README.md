@@ -13,34 +13,23 @@ FinFind Safeguard is an innovative technology that ensures public beach safety b
 <img src="Logo.png" width = 300>
 
 ## How it works
-An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy. At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks. AlexNet has been trained on a vast dataset of underwater images, enabling it to distinguish sharks. When the camera spots a shark in the beach water, it participates in ensuring public safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
+An underwater camera, deployed in the coastal waters near a popular beach, serves as a vigilant guardian against potential shark threats. This camera is equipped with technology designed to identify sharks with remarkable accuracy. When the camera spots a shark in the beach water, it participates in ensuring public safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
 
 
 <img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/9a0cf732-ac1e-41f0-a1ec-eb313031f9f4" alt="image_description" width="800">
 
+At the heart of this system is a pre-trained AlexNet model, a type of convolutional neural network renowned for its effectiveness in image recognition tasks.
+
 <img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/480d7470-687c-47e7-a2df-5a02278510a8" width="800">
 
 
-## Why is it important
-
-**Protecting Human Lives:**
-
-The most obvious importance is the protection of human lives. Shark attacks can be serious or even fatal. The program esures the safety of beachgoers, swimmers, surfers, and divers.
-
-**Reducing Fear and Anxiety:**
-
-The fear of shark attacks can deter people from enjoying the ocean. Effective safety measures can reduce this fear and anxiety, encouraging more people to engage in beach and ocean activities.
-
-**Supporting Local Economies and Tourism:**
-
-Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attacks can negatively impact these economies. By ensuring public safety, localities can maintain a thriving tourist industry. Safe beaches attract more visitors, which benefits hotels, restaurants, and other businesses in coastal areas.
-
-![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
- 
 
 
 
 # Data Deck
+
+ AlexNet has been trained on a vast dataset of underwater images, enabling it to distinguish sharks.
+ 
 <img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
 [ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
@@ -84,6 +73,22 @@ MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body.
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/d5aba082-a5a3-4a22-9eca-b3ed4ec1547e" width = 400>
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/f4df6a23-06cb-409e-98a7-933e251573ba" width = 400>
 
+## Why is it important
+
+**Protecting Human Lives:**
+
+The most obvious importance is the protection of human lives. Shark attacks can be serious or even fatal. The program esures the safety of beachgoers, swimmers, surfers, and divers.
+
+**Reducing Fear and Anxiety:**
+
+The fear of shark attacks can deter people from enjoying the ocean. Effective safety measures can reduce this fear and anxiety, encouraging more people to engage in beach and ocean activities.
+
+**Supporting Local Economies and Tourism:**
+
+Coastal areas, like Florida, often rely heavily on tourism. Fear of shark attacks can negatively impact these economies. By ensuring public safety, localities can maintain a thriving tourist industry. Safe beaches attract more visitors, which benefits hotels, restaurants, and other businesses in coastal areas.
+
+![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/16c1ecc7-6fe8-4daf-9342-f253111fed6a)
+ 
 
 # Contact Us
 
