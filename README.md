@@ -3,7 +3,7 @@
 <img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/19bc800e-85b2-4cf6-af74-b5c9373acf8e" width = 1000>
 
 ## Problem 
-Shark attacks on humans still happen today. And when they happen, they can result in serious injuries or fatalities. 
+Shark attacks on humans still happen today. And when they happen, they can result in serious injuries or **fatalities**. 
 
 ## Overview
 FinFind Safeguard is an innovative technology that ensures public beach safety by recognizing sharks in water.
@@ -21,27 +21,27 @@ An underwater camera, deployed in the coastal waters near a popular beach, serve
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/e28e0ddd-28ac-48f6-a64c-06edc0dfcec9" length = "350">
 <img src= "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/c5bca813-3989-4c34-af45-0b693c893517" width = "345">
 
-When the camera spots a shark in the beach water, it participates in ensuring public safety by sending an immediate alert to the nearby lifeguard. This message empowers the lifeguard to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
+When the camera **spots a shark** in the beach water, it participates in ensuring public safety by **sending an immediate alert** to the nearby lifeguard. This message empowers the **lifeguard** to swiftly take action, warning people on the beach of the danger and potentially preventing dangerous encounters between humans and sharks.
 
 <img src="https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/480d7470-687c-47e7-a2df-5a02278510a8" width="800">
 
 # AlexNet
-At the heart of this system is a pre-trained [AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) model, a type of convolutional neural network used for image recognition tasks.
+At the heart of this system is a pre-trained [AlexNet](https://colab.research.google.com/drive/1v3CwUUp9sjcOkj0G-Ulp8g6gt3dwEkZG?usp=sharing) model, a type of convolutional neural network used for **image recognition** tasks.
  
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/78487a0a-5b2b-41e2-9aa4-5e37a9020112)
 
-AlexNet works by processing input images through multiple layers, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn features from the images, enabling the model to classify images into different categories effectively.
+AlexNet works by **processing input images through multiple layers**, including convolutional layers, pooling layers, and fully connected layers. These layers extract and learn features from the images, enabling the model to classify images into different categories effectively.
 
 # Data Deck
 
 <img src="underwater4.jpeg" width=200> <img src="underwater3.jpeg" width=200> <img src="sharkscr1.png" width=200> <img src="underwater5.jpeg" width=200>
 [ All Data Slides](https://docs.google.com/presentation/d/1GCEIlXu9bqusEShnHxgG5mU2u6IF6JgzBkYBzqsDLYo/edit?usp=sharing)
 
-It has been trained on a vast dataset of underwater images, enabling it to distinguish sharks.
+It has been trained on a **vast dataset** of underwater images, enabling it to distinguish sharks.
 
 # Filters
 
-Filters are small learnable matrices used to perform convolution operations on the input image. Each filter is responsible for detecting a specific type of feature, such as edges, textures, or more complex patterns.
+Filters are small learnable matrices used to perform convolution operations on the input image. Each filter is responsible for **detecting a specific type of feature**, such as edges, textures, or more complex patterns.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/b1838e28-122d-49e2-bb2e-2b3cc1996963)
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/630a4f2e-fdc5-4096-abe3-7341c5802625)
@@ -56,7 +56,7 @@ Filters are small learnable matrices used to perform convolution operations on t
 
 # Feature Maps
 
-Feature maps are the result of applying filters to the input image using the convolution operation. Each filter generates one feature map. The feature map highlights areas of the input image where the filter's pattern or feature is present
+Feature maps are the **result of applying filters** to the input image using the convolution operation. Each filter generates one feature map. The feature map highlights areas of the input image where the filter's pattern or feature is present
 
 <img src = "https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/eb4d6a7e-dfa6-4b23-9757-919c4115cde2" width = "800">
 
@@ -64,7 +64,8 @@ Stacking multiple convolutional layers with different filters allows AlexNet to 
 
 # AlexNet Accuracy 
 
-The high accuracy of the AlexNet model in our system _GUARANTEES_ reliable detection of sharks.
+The high accuracy of the AlexNet model **GUARANTEES** reliable detection of sharks.
+
 <img src="AlexNet Accuracy.png">
 
 
