@@ -115,5 +115,5 @@ For technical assistance, please visit our [Support Center](https://www.finfindi
 ### Follow Us
 Stay connected with the latest updates from FinFind Innovations:  
 - [Facebook](https://www.facebook.com/FinFindInnovations)
-- [Twitter](https://www.twitter.com/FinFindInnovate)
+- [Twitter(X)](https://www.twitter.com/FinFindInnovate)
 - [LinkedIn](https://www.linkedin.com/company/finfind-innovations)
