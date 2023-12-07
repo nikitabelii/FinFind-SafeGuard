@@ -38,7 +38,7 @@ It has been trained on a **vast dataset** of underwater images, enabling it to d
 
 # Filters
 
-Filters are small learnable matrices used to perform convolution operations on the input image. Each filter is responsible for **detecting a specific type of feature**, such as edges, textures, or more complex patterns.
+AlexNet uses filters, which are small learnable matrices used to perform convolution operations on the input image. Each filter is responsible for **detecting a specific type of feature**, such as edges, textures, or more complex patterns.
 
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/b1838e28-122d-49e2-bb2e-2b3cc1996963)
 ![image](https://github.com/nikitabelii/FinFind-SafeGuard/assets/143030719/630a4f2e-fdc5-4096-abe3-7341c5802625)
